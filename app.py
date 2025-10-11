@@ -2,3 +2,7 @@
 def main():
     '''Main function for testing'''
     pass
+
+def test_func1():
+    '''Test function1 with no conflicts'''
+    pass
