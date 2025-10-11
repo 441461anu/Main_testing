@@ -14,7 +14,10 @@ def test_func2():
 
 def test_func3_bydev(): 
     '''Test function3 without restrictions that pr need to approved'''
+    pass
 
+def test_func6():
+    '''test6 by someone'''
     pass
 
 def test_func4():
