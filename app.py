@@ -20,4 +20,7 @@ def test_func6():
     '''test6 by someone'''
     pass
 
+def test_func4():
+    '''test4'''
+    pass
 
