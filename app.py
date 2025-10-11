@@ -21,3 +21,7 @@ def test_func4():
     '''test4'''
     pass
 
+def test_func5():
+    '''test5'''
+    pass
+
