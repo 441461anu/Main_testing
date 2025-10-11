@@ -17,3 +17,7 @@ def test_func3_bydev():
 
     pass
 
+def test_func4():
+    '''test4'''
+    pass
+
