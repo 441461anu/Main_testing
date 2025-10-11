@@ -8,5 +8,5 @@ def test_func1():
     pass
 
 def test_func2():
-    '''Test function2 with restrictions that pr need to approved'''
+    '''Test function2 without restrictions that pr need to approved'''
     pass
