@@ -41,10 +41,6 @@ def fibonacci(n):
 
 
 
-def pegtesting():
-    print("hello anuroop gowda c")
-    print("added new line")
-    print("added new line")
+def anuroop():
     pass
-
 
